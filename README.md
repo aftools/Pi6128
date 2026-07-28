@@ -92,9 +92,9 @@ The PS/2 keyboard is powered at 3.3V directly from the Pico.
 | Buttons  | REBOOT     | GP26 |extra mapped to the joystick|
 
 
-## 4. Joysticks (Ports A and B)
+## 4. Joystick (Port 1)
 
-Joysticks use internal pull‑up resistors.
+Joystick use internal pull‑up resistors.
 Each button closes the contact to GND.
 
 | Joystick   GPIO | Function |
