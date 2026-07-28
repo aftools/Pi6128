@@ -49,7 +49,6 @@
 #include "CPCGameBrowser.h"
 #include "timing.h"
 #include "storage.h"
-#include "debug_littlefs.h"
 // ---- Metodo Trap HLE (veloce, niente FDC/AMSDOS reali) ----
 #include "dsk.h"
 #include "hle_cas.h"
