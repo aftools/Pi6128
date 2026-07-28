@@ -456,7 +456,7 @@ void CPCGameBrowser::drawCredits() {
     tft->setTextSize(1);
     tft->setTextColor(0xFFE0);
     tft->setTextDatum(BR_DATUM);
-    tft->drawString("@IV COMMODORE 64 emulator", 315, 235);
+    tft->drawString("@IV AMSTRAD CPC emulator", 315, 235);
 }
 
 void CPCGameBrowser::showError(const char* msg) {
