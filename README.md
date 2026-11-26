@@ -1,7 +1,7 @@
 # Pi6128
 Pi6128 is a Amstrad CPC 6128 emulator developed for the Raspberry Pi Pico2 (RP2350) using the Arduino IDE environment.
 It is based on / forked from :link:[Pi464](https://github.com/ivanvddr/Pi464) by ivanvddr.
-See original :link:[Readme 464](readme_pi464.md)
+See original :link:[Readme 464](README_Pi464.md)
 
 # Main goals in this repository
 - Expand the emulator from CPC464 emulation to CPC6128
